@@ -6,3 +6,11 @@ categories:
 ---
 
 This is SuperPose
+<pre>
+#include <iosstream> 
+
+int main() {
+std::cout<<" This is for Test" <<std::endl;
+return 0;
+}
+</pre>
