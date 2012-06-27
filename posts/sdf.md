@@ -15,7 +15,7 @@ Specific git-branch actions:
     -m, --move            move/rename a branch and its reflog
     -M                    move/rename a branch, even if target exists
     --list                list branch names
-    -l, --create-reflog   create the branch's reflog
+    -l, --create-reflog   create the branch\'s reflog
     --edit-description    edit the description for the branch
     -f, --force           force creation (when already exists)
     --no-merged <commit>  print only not merged branches
