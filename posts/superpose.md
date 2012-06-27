@@ -9,9 +9,9 @@ This is SuperPose,
 <html>
 <body>
 <pre>
-#include <iostream> 
+
 int main() {
-std::cout\<\<" This is for Test" \<\<std::endl;
+std::cout<<" This is for Test" <<std::endl;
 return 0;
 }
 
