@@ -5,6 +5,8 @@ description:
 categories:
 ---
 
+<html>
+<pre>
 df
 Specific git-branch actions:
     -a, --all             list both remote-tracking and local branches
@@ -18,4 +20,5 @@ Specific git-branch actions:
     -f, --force           force creation (when already exists)
     --no-merged <commit>  print only not merged branches
     --merged <commit>     print only merged branches
-
+</pre>
+</html>
