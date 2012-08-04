@@ -1,0 +1,9 @@
+* Test
+$\binom{N}{k}$
+
+\begin{equation}
+\begin{split}
+a = & c \\
+  = & b + d
+\end{split}
+\end{equation}
