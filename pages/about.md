@@ -1,8 +1,11 @@
 ---
 title : About(itsuper)
-description: asdf
+description: Machine Learning, Mathematics, Programming And Music
 ---
 
-Hello
+itsuper7.wordpress.com
 
-其实是可以写中文的
+
+
+
+
