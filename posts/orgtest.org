@@ -1,0 +1,7 @@
+* This is for test of code
+#+BEGIN_SRC c
+#include <iostream>
+for (i = 1; i< n; ++i)
+{
+}
+#+END_SRC
