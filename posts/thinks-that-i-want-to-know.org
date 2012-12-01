@@ -1,6 +1,6 @@
 * How To Prove that Exponential Kernel is a Positive Definite Kernel?
-\begin{equation}
-k(x,z) = e^{-\alpha \|x-z \|}
-\end{equation} 
+
+$k(x,z) = e^{-\alpha \|x-z \|}$
+
 where \alpha > 0.
 
