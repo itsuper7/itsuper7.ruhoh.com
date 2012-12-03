@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>thinks-that-i-want-to-know</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
 <meta name="title" content="thinks-that-i-want-to-know"/>
 <meta name="generator" content="Org-mode"/>
-<meta name="generated" content="2012-12-01T19:58+0800"/>
+<meta name="generated" content="2012-12-03T11:21+0800"/>
 <meta name="author" content="sijin"/>
 <meta name="description" content=""/>
 <meta name="keywords" content=""/>
@@ -222,15 +222,37 @@ for the JavaScript code below.
 <div class="outline-text-2" id="text-1">
 
 
-\begin{equation}
-k(x,z) = e^{-\alpha \|x-z \|}
-\end{equation} 
-</div>
+
+
+\(k(x,z) = e^{-\alpha \|x-z \|}\)
+
+<p>
+where &alpha; &gt; 0.
+<b>solved</b>
+One solution:
+   <a href="http://math.stackexchange.com/questions/248976/how-to-prove-that-exponential-kernel-is-positive-definite/249343#249343">mathematics</a>
+</p><ol>
+<li>Firstly, prove &phi;(r) = e<sup>-&alpha; y<sup>\frac{1}{2}</sup></sup> is completely monotone on [0, &infin;)
+</li>
+<li>Use Schoenberg interpolation theorem. <a href="http://www.math.iit.edu/~fass/603_ch2.pdf">pdf</a>
+
+<p>
+ A interesting theorem is Hausdorff-Bernstein-Widder Theorem, which states
+</p></li>
+</ol>
+
+<p>completely monotone function is equivalent to Laplace transform of a finite non-negative 
+Borel measure u on [0,&infin;].  
+ Thus \(\phi(r)\) is of the form
+ \begin{equation}
+\phi(r) = \mathcal{L}u(r) = \int_{0}^{\infty} e^{-rt} du(t).
+ \end{equation} 
+</p></div>
 </div>
 </div>
 
 <div id="postamble">
-<p class="date">Date: 2012-12-01T19:58+0800</p>
+<p class="date">Date: 2012-12-03T11:21+0800</p>
 <p class="author">Author: sijin</p>
 <p class="creator"><a href="http://orgmode.org">Org</a> version 7.9.2 with <a href="http://www.gnu.org/software/emacs/">Emacs</a> version 23</p>
 <a href="http://validator.w3.org/check?uri=referer">Validate XHTML 1.0</a>

@@ -4,3 +4,17 @@ $k(x,z) = e^{-\alpha \|x-z \|}$
 
 where \alpha > 0.
 
+*solved*
+One solution:
+   [[http://math.stackexchange.com/questions/248976/how-to-prove-that-exponential-kernel-is-positive-definite/249343#249343][mathematics]]
+1. Firstly, prove $\phi(r) = e^{-\alpha y^{\frac{1}{2}}}$ is completely monotone on [0, \infty)
+2. Use Schoenberg interpolation theorem. [[http://www.math.iit.edu/~fass/603_ch2.pdf][pdf]]
+
+
+A interesting theorem is Hausdorff-Bernstein-Widder Theorem, which states
+completely monotone function is equivalent to Laplace transform of a finite non-negative 
+Borel measure u on [0,\infty].  
+ Thus $\phi(r)$ is of the form
+ \begin{equation}
+\phi(r) = \mathcal{L}u(r) = \int_{0}^{\infty} e^{-rt} du(t).
+ \end{equation} 
