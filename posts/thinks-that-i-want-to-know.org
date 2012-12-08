@@ -18,3 +18,12 @@ Borel measure u on [0,\infty].
  \begin{equation}
 \phi(r) = \mathcal{L}u(r) = \int_{0}^{\infty} e^{-rt} du(t).
  \end{equation} 
+* How to Prove that Exponential $\chi^{2}$ kernel is a Valid Kernel?
+
+\begin{equation} 
+\begin{split}
+k(x,z) &= e^{- \chi(x,z)^{2}}\\
+\chi(x,z) &= \sum_{i}^{d} \frac{(x_{i} - z_{i})^{2}}{x_{i} + z_{i}}
+\end{split}
+\end{equation}
+
