@@ -7,5 +7,6 @@ categories: math todo
 
 # Introduction to Probability Theory
    P 314
-   How to prove $ v^{2}(x) = o(U(x))$.
+   How to prove 
+      $v^{2}(x) = o(U(x))$.
 
