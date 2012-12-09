@@ -18,3 +18,4 @@ categories: test
     cd mark
 
        
+   $t_i = \sum_j p_j$
