@@ -49,7 +49,7 @@ Using the inverse Fourier transform,
 
 \begin{equation} 
 \begin{split}
-k(x,z) &= \sqrt{xz} \int_{-\infty}^{\infty} e^{i\omega}(log(x) - log(z))sech(\pi \omega) d \omega
+k(x,z) &= \sqrt{xz} \int_{-\infty}^{\infty} e^{i\omega(log(x) - log(z))}sech(\pi \omega) d \omega
 &= \int_{-\infty}^{\infty} \Phi_{\omega}(x) * \Phi_{\omega}(z) d \omega
 \end{split}
 \end{equation}
