@@ -4,7 +4,7 @@ description: Machine Learning, Mathematics, Programming And Music
 ---
 
 [previous blog](itsuper7.wordpress.com)
-![pic][fig_id:]
+![pic][fig_id]
 
 
 
