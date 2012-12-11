@@ -6,7 +6,7 @@ theme : twitter
 production_url : http://itsuper7.com
 
 posts:
-  permalink: /:categories/:title/
+  permalink: /:categories/:title/:tag/
   summary_lines: 20
   latest: 10
 
