@@ -5,6 +5,10 @@ description:
 categories: test
 ---
 
+{{# page?next }}
+  Newer: <a href="{{ url }}">{{ title }}</a></li>
+{{/ page?next }}
+
 # Title one
 
 ## Title two
