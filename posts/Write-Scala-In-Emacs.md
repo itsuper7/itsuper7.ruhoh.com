@@ -1,6 +1,6 @@
 ---
 title: Write Scala In Emacs
-date: '2012-12-01'
+date: '2012-12-19'
 description:
 categories: test
 ---
@@ -15,16 +15,18 @@ Follow the [link](http://jawher.net/2011/01/17/scala-development-environment-ema
         
 		java -Xms512M -Xmx1536M -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=384M -jar `dirname $0`/sbt-launch.jar "$@"
 
-save sbt file and make it excutable
+3. save sbt file and make it excutable
 
         chmod +x sbt
 		
+4. add the path of sbt to $PATH.(modify .bashrc)
+
 # Install Ensime
 1. Install [scale-mode](https://github.com/haxney/scala-mode)
 2. Install [Ensime](http://aemoncannon.github.com/ensime/index.html#tth_sEc2)
 3. add the following in your .sbt/plugins/plugins.sbt (if this file doesn't exist, create one)
     
-	  addSbtPlugin("org.ensime" % "ensime-sbt-cmd" % "version")
+	     addSbtPlugin("org.ensime" % "ensime-sbt-cmd" % "version")
 	 
 where version is the sbt version. (e.g., "0.1.0")
 
