@@ -2,7 +2,9 @@
 title: Write Scala In Emacs
 date: '2012-12-19'
 description:
-categories: test
+categories: 
+   - programming
+   - scala
 ---
 
 # Install scala 
