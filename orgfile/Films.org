@@ -1,9 +1,16 @@
-#+TITLE: My Video Collections
+#+TITLE: Resource
 
 * Entertainment
 
 * Machine Learning Study
+** lecture
 | title | Video                            | Files |
 |-------+----------------------------------+-------|
 |       | http://techtalks.tv/talks/57646/ | [[http://www.cs.nyu.edu/~yann/talks/lecun-20120629-icml.pdf][pdf]]   |
 |       | [[http://techtv.mit.edu/collections/mit150:1967][Brains, Minds and Machines]]       |       |
+
+* System
+** paper
+| title                                          | File |
+|------------------------------------------------+------|
+| What Every Programmer Should Know About Memory | [[http://www.akkadia.org/drepper/cpumemory.pdf][pdf]]  |
