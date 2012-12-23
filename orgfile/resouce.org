@@ -11,6 +11,10 @@
 
 * System
 ** paper
-| title                                          | File |
-|------------------------------------------------+------|
-| What Every Programmer Should Know About Memory | [[http://www.akkadia.org/drepper/cpumemory.pdf][pdf]]  |
+| title                                                               | File |
+|---------------------------------------------------------------------+------|
+| What Every Programmer Should Know About Memory                      | [[http://www.akkadia.org/drepper/cpumemory.pdf][pdf]]  |
+| Is Parallel Programming Hard, And, If So, What Can You Do About It? | [[|                                                                     |      |][pdf]] |
+
+   
+
