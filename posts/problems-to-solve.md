@@ -29,4 +29,6 @@ MathJax.Hub.Queue(function() {
   1.  P 314 How to prove 
       $v^{2}(x) = o(U(x))$.
   2.  P 325 
-     
+          equ 2.1:  
+		  why does it has the term $-c \frac{ \partial m_t(y)}{\partial y}$?
+         
