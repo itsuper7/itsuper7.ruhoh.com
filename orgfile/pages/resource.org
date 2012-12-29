@@ -15,6 +15,7 @@
 |---------------------------------------------------------------------+------|
 | What Every Programmer Should Know About Memory                      | [[http://www.akkadia.org/drepper/cpumemory.pdf][pdf]]  |
 | Is Parallel Programming Hard, And, If So, What Can You Do About It? | [[|                                                                     |      |][pdf]] |
-
-   
-
+** Book
+| title                          |   |
+| [[http://www.amazon.com/Understanding-Linux-Kernel-Third-Edition/dp/0596005652/ref=sr_1_3?ie=UTF8&qid=1356743710&sr=8-3&keywords=Linux+Kernel+Development][Understanding the Linux Kernel]] |   |
+|[[http://www.amazon.com/Professional-Linux-Kernel-Architecture-Programmer/dp/0470343435][Professional Linux Kernel Architecture]]||
