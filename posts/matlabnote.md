@@ -7,6 +7,6 @@ categories:
    - matlab
 ---
 
-# Generate Samples
+# Generate Sample from given distribution
  [link](http://www2.math.uu.se/research/telecom/software/stprobdist.html)
 
