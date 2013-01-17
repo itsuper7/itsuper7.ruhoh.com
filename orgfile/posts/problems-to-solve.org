@@ -1,0 +1,13 @@
+
+* Introduction to Probability Theory
+  1. P 314 How to prove 
+     $v^{2}(x) = o(U(x))$.
+  2. P 325 
+         equ 2.1:  
+		 why does it has the term $-c \frac{ \partial m_t(y)}{\partial y}$?
+
+     [solved]
+     Note that $m_{t}(ct + x)$ is a function of two variables, i.e., $m_{t}(ct + x) = g(t, ct + x)$. Then the derivatives should contains two terms.          
+  3. P 329
+      equ 3.13
+    The proof seems incorrect. $f(t)  = 1 - (1 - e^{-at})^{n}$ is a decreasing function of t. It is too early to use $f(t-s) \le f(t)$. The conclusion seems correct, while how to prove it? 
