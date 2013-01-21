@@ -1,0 +1,15 @@
+title : Probabilistic Thinking
+tagline: its
+author :
+  name : itsuper7
+  email : blah@email.test
+  github : itsuper7
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - categories.html
+  - pages.html
+  - Resource.html 
+  - about.md
