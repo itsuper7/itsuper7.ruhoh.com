@@ -14,6 +14,8 @@
 | title                        | Type | File |
 | Clean code                   | Book | [[http://www.tud.ttu.ee/material/kallik/JOOP/Clean_Code_-_A_Handbook_of_Agile_Software_Craftsmanship.pdf][pdf]]  |
 | [[http://www.amazon.com/dp/1449390544/?tag=stackoverfl08-20][Head First HTML5 Programming]] | Book |      |
+| [PDP][fn:1]                            | Book | [[http://www.amazon.com/Parallel-Distributed-Processing-Explorations-Microstructure/dp/B008SMRVD6][pdf]] |
+
 * Math
 | title               | file |
 |---------------------+------|
@@ -32,3 +34,6 @@
 | [[http://www.amazon.com/Understanding-Linux-Kernel-Third-Edition/dp/0596005652/ref=sr_1_3?ie=UTF8&qid=1356743710&sr=8-3&keywords=Linux+Kernel+Development][Understanding the Linux Kernel]]         |   |
 | [[http://www.amazon.com/Professional-Linux-Kernel-Architecture-Programmer/dp/0470343435][Professional Linux Kernel Architecture]] |   |
 
+
+
+[fn:1] Parallel Distributed Processing: Explorations in the Microstructure of Cognition: Foundations
