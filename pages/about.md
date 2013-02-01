@@ -3,6 +3,8 @@ title : About(itsuper)
 description: Machine Learning, Mathematics, Programming And Music
 ---
 
+Some thing news
+
 [blog on wordpress](http://itsuper7.wordpress.com)
 ![pic][fig_id]
 <ul>
