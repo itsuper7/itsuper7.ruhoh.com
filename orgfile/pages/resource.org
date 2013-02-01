@@ -1,7 +1,8 @@
 #+TITLE: Resource
 
 * Entertainment
-
+| title         | source |
+| How to manage |    [[https://thelab.o2.com/2013/01/how-do-you-manage/][video]] |
 * Machine Learning Study
 ** lecture
 | title | Video                            | Files |
