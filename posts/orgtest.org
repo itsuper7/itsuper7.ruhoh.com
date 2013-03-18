@@ -1,7 +1,11 @@
 * This is for test of code
 #+BEGIN_SRC c
 #include <iostream>
-for (i = 1; i< n; ++i)
-{
+int main() {
+for (int i = 1; i< n; ++i){
+std::cout<<" This is "<<i<<std::endl;
+}
+return 0;
 }
 #+END_SRC
+
