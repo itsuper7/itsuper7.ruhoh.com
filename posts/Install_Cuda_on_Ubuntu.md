@@ -10,3 +10,7 @@ categories:
 
 Here is the [link](http://sn0v.wordpress.com/2012/12/07/installing-cuda-5-on-ubuntu-12-04/)
 
+
+
+
+
