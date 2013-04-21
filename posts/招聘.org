@@ -1,0 +1,22 @@
+* Statement
+source = [[http://programming2013.cstnet.cn/round2/problem/2][招聘]]
+
+Each point i has the following property, q_{1}[i], c_{1}[i], q_{2}[i], c_{2}[i]>0, b_{1}[i]. b_{2}[i];
+
+b is binary,
+ And b_{1}[i] + b_{2}[i] <= 1;
+ \sum b_{1}[i] = n1, and \sum b_{2}[i] = n2;
+Maximize
+\begin{equation}
+\frac{\sum b_{1}[i] * q_{1}[i] + b_{2}[i] * q_{2}[i]}{\sum b_{1}[i] * c_{1}[i] + b_{2}[i] * c_{2}[i]}
+\end{equation}
+ 
+
+* Solution
+ binary search the ratio, and then DP. Since given ratio, it becomes 0-1 bag problem.
+Following 
+[[i don't know the link][zzz]] 's idea: Sorting the pair first.
+Use f[tot_{n}][num_{2}] instead of  f[num_{1}][num_{2}]
+
+f[tot_n][j]: if tot_n - j <= n1, then it means the optimal value assigning exactly tot_n - j people to project 1 and j people to project 2.
+else it means assigning n1 people to project 1 and j people to project 2.
